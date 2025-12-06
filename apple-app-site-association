@@ -1,0 +1,16 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "47752268JV.com.esap.loopline",
+        "paths": [
+          "/shelf/*",
+          "/album/*",
+          "/profile/*",
+          "/user/*"
+        ]
+      }
+    ]
+  }
+}
